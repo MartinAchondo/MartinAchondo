@@ -17,9 +17,9 @@ Estudiante 4to año de Ingeniería Civil Mecánica en la universidad Técnica Fe
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=MartinAchondo alt=MartinAchondo /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=MartinAchondo&show_icons=true&count_private=true&theme=tokyonight)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=MartinAchondo&theme=tokyonight)
 ](https://github.com/MartinAchondo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinAchondo&layout=compact&count_private=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinAchondo&layout=compact&theme=tokyonight)
 ](https://github.com/MartinAchondo/github-readme-stats)
 
  

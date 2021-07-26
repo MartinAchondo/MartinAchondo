@@ -19,7 +19,7 @@ Estudiante 4to año de Ingeniería Civil Mecánica en la universidad Técnica Fe
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=MartinAchondo&theme=tokyonight&include_all_commits=true)
 ](https://github.com/MartinAchondo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinAchondo&layout=compact&theme=tokyonight&)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinAchondo&layout=compact&theme=tokyonight&count)
 ](https://github.com/MartinAchondo/github-readme-stats)
 
  

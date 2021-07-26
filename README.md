@@ -10,7 +10,9 @@
   <li>  Actividades: Fútbol, Pádel, Tenis, Elaboración de Cerveza Artesanal. </li>
  </ul>
 <p align='left'> Más información en mi curriculum <a href='https://drive.google.com/file/d/1TYqTaNzTwuLUHUwsBQcKIutNjcLLRmf9/view?usp=sharing' target=_blank><u>aquí</u>.</a></p>
-## Some of my Github Stats
+
+## Github Stats
+
 <p align=left> <img src=https://komarev.com/ghpvc/?username=MartinAchondo alt=MartinAchondo /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=MartinAchondo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)

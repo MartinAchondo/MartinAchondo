@@ -39,7 +39,7 @@ Estudiante 4to año de Ingeniería Civil Mecánica en la universidad Técnica Fe
 </span></div>
 <ul class="list-style-none">
     <li class="d-inline">
-      <a class="d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small mr-3" href="/MartinAchondo/Gestor-Dominga/search?l=python" data-ga-click="Repository, language stats search click, location:repo overview">
+      <a class="d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small mr-3" href="/MartinAchondo/search?l=python" data-ga-click="Repository, language stats search click, location:repo overview">
         <svg class="octicon octicon-dot-fill mr-2" style="color:#3572A5;" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
         <span class="color-text-primary text-bold mr-1">Python</span>
         <span>31.8%</span>
@@ -89,4 +89,4 @@ Estudiante 4to año de Ingeniería Civil Mecánica en la universidad Técnica Fe
     </li>
 </ul>
 
-            </div>
+ 

@@ -3,7 +3,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-acho.martin@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:acho.martin@gmail.com)](mailto:acho.martin@gmail.com) [![Github Badge](https://img.shields.io/badge/-MartinAchondo-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MartinAchondo/)](https://www.github.com/MartinAchondo/) [![Github Badge](https://img.shields.io/badge/-@martin_achondo-grey?style=flat&logo=instagram&logoColor=pink&link=https://www.instagram.com/martin_achondo/)](https://www.instagram.com/martin_achondo/)
 
-Estudiante 4to año de Ingeniería Civil Mecánica en la universidad Técnica Federico Santa María. Self learner en desarrollo de Software.
+Estudiante 4to año de Ingeniería Civil Mecánica en la universidad Técnica Federico Santa María. Self taught en desarrollo de Software.
 
 <ul>
    <li> Habilidades: Inglés Avanzado, Diseño con Autodesk Inventor, Simulaciones Numéricas con Ansys, Soldadura al Arco. </li>

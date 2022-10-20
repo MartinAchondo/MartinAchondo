@@ -1,7 +1,7 @@
 
 <h2>Martín Achondo Mercado</h2>
 
-[![Gmail Badge](https://img.shields.io/badge/-acho.martin@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:acho.martin@gmail.com)](mailto:acho.martin@gmail.com) [![Github Badge](https://img.shields.io/badge/-MartinAchondo-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MartinAchondo/)](https://www.github.com/MartinAchondo/) [![Github Badge](https://img.shields.io/badge/-@martin_achondo-grey?style=flat&logo=instagram&logoColor=pink&link=https://www.instagram.com/martin_achondo/)](https://www.instagram.com/martin_achondo/)
+[![Gmail Badge](https://img.shields.io/badge/-martin.achondom@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:martin.achondom@gmail.com)](mailto:martin.achondom@gmail.com) [![Github Badge](https://img.shields.io/badge/-MartinAchondo-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MartinAchondo/)](https://www.github.com/MartinAchondo/) [![Github Badge](https://img.shields.io/badge/-@martin_achondo-grey?style=flat&logo=instagram&logoColor=pink&link=https://www.instagram.com/martin_achondo/)](https://www.instagram.com/martin_achondo/)
 
 Licenciado en Ciencias de la Ingeniería Mecánica cursando 5to año de Ingeniería Civil Mecánica en la Universidad Técnica Federico Santa María.
 

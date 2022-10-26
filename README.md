@@ -9,19 +9,17 @@ Licenciado en Ciencias de la Ingeniería Mecánica cursando 5to año de Ingenier
   <li> Computación Científica: 
     <ul>
       <li> Python, Fortran, Matlab.
-      <li> OpenFoam.
-      <li> Fluent, Ansys.
+      <li> OpenFoam, Fluent, Ansys.
     </ul>
 <li> Desarrollo de Software: 
     <ul>
       <li> Python, Javascript, VBA.
       <li> React Js, Electron Js.
       <li> SQL databases
-
     </ul> 
 </ul>
 
-<p align='left'> Más información en mi curriculum <a href='https://drive.google.com/file/d/1TYqTaNzTwuLUHUwsBQcKIutNjcLLRmf9/view?usp=sharing' target=_blank><u>aquí</u>.</a></p>
+<p align='left'> Más información en mi curriculum <a href='https://drive.google.com/file/d/1TYqTaNzTwuLUHUwsBQcKIutNjcLLRmf9/view?usp=sharing' target=_blank><u>aquí</u>.</a></p>[a relative link](other_file.md)
 
 ## Github Stats
 

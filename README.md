@@ -9,9 +9,9 @@ Licenciado en Ciencias de la Ingeniería Mecánica cursando 5to año de Ingenier
   <li> Computación Científica: 
     <ul>
       <li> Python, Fortran, Matlab.
-      <li> OpenFoam, Fluent, Ansys.
+      <li> OpenFoam, Fluent, Ansys, Tensorflow.
     </ul>
-<li> Desarrollo de Software: 
+<li> Desarrollo de Aplicaciones: 
     <ul>
       <li> Python, Javascript, VBA.
       <li> React Js, Electron Js, Flask.

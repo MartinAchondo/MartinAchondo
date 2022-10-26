@@ -19,7 +19,7 @@ Licenciado en Ciencias de la Ingeniería Mecánica cursando 5to año de Ingenier
     </ul> 
 </ul>
 
-<p align='left'> Más información en mi curriculum <a href='https://drive.google.com/file/d/1TYqTaNzTwuLUHUwsBQcKIutNjcLLRmf9/view?usp=sharing' target=_blank><u>aquí</u>.</a></p>[a relative link](CV.pdf)
+<p align='left'> Más información en mi curriculum <a href='https://github.com/MartinAchondo/MartinAchondo/blob/main/CV.pdf' target=_blank><u>aquí</u>.</a></p>
 
 ## Github Stats
 

@@ -14,7 +14,7 @@ Licenciado en Ciencias de la Ingeniería Mecánica cursando 5to año de Ingenier
 <li> Desarrollo de Software: 
     <ul>
       <li> Python, Javascript, VBA.
-      <li> React Js, Electron Js.
+      <li> React Js, Electron Js, Flask.
       <li> SQL databases.
     </ul> 
 </ul>

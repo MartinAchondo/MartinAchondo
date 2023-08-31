@@ -1,9 +1,9 @@
 
 <h2>Martín Achondo Mercado</h2>
 
-[![Gmail Badge](https://img.shields.io/badge/-martin.achondom@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:martin.achondom@gmail.com)](mailto:martin.achondom@gmail.com) [![Github Badge](https://img.shields.io/badge/-MartinAchondo-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MartinAchondo/)](https://www.github.com/MartinAchondo/) [![Github Badge](https://img.shields.io/badge/-@martin_achondo-grey?style=flat&logo=instagram&logoColor=pink&link=https://www.instagram.com/martin_achondo/)](https://www.instagram.com/martin_achondo/)
+[![Gmail Badge](https://img.shields.io/badge/-martin.achondom@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:martin.achondom@gmail.com)](mailto:martin.achondom@gmail.com) [![Github Badge](https://img.shields.io/badge/-MartinAchondo-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MartinAchondo/)](https://www.github.com/MartinAchondo/) 
 
-Licenciado en Ciencias de la Ingeniería Mecánica cursando 5to año de Ingeniería Civil Mecánica en la Universidad Técnica Federico Santa María.
+MSc. Ing. Civil Mecánico.
 
 <ul>
   <li> Computación Científica: 
@@ -19,7 +19,7 @@ Licenciado en Ciencias de la Ingeniería Mecánica cursando 5to año de Ingenier
     </ul> 
 </ul>
 
-<p align='left'> Más información en mi curriculum <a href='https://github.com/MartinAchondo/MartinAchondo/blob/main/CV.pdf' target=_blank><u>aquí</u>.</a></p>
+<!-- <p align='left'> Más información en mi curriculum <a href='https://github.com/MartinAchondo/MartinAchondo/blob/main/CV.pdf' target=_blank><u>aquí</u>.</a></p> -->
 
 ## Github Stats
 

@@ -9,7 +9,8 @@ MSc. Ing. Civil Mecánico.
   <li> Computación Científica: 
     <ul>
       <li> Python, Fortran, Matlab.
-      <li> OpenFoam, Fluent, Ansys, Tensorflow.
+      <li> Excel, Pandas, Tensorflow.
+      <li> OpenFoam, Fluent, Ansys, DWSIM.
     </ul>
 <li> Desarrollo de Aplicaciones: 
     <ul>

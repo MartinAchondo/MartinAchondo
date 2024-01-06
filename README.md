@@ -1,8 +1,10 @@
-# Hello, I'm Martín Achondo Mercado! 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-martin.achondom@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:martin.achondom@gmail.com)](mailto:martin.achondom@gmail.com) 
 [![LinkedIn Badge](https://img.shields.io/badge/-Martín%20Achondo%20Mercado-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mart%C3%ADn-achondo-mercado-49aa00247/?originalSubdomain=cl)](https://www.linkedin.com/in/mart%C3%ADn-achondo-mercado-49aa00247/?originalSubdomain=cl)
 [![Github Badge](https://img.shields.io/badge/-MartinAchondo-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MartinAchondo/)](https://www.github.com/MartinAchondo/)
+
+# Hello, I'm Martín Achondo Mercado! 👋
+
 
 ## About Me
 

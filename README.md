@@ -1,26 +1,24 @@
+# Hello, I'm Martín Achondo Mercado! 👋
 
-<h2>Martín Achondo Mercado</h2>
+[![Gmail Badge](https://img.shields.io/badge/-martin.achondom@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:martin.achondom@gmail.com)](mailto:martin.achondom@gmail.com) 
+[![LinkedIn Badge](https://img.shields.io/badge/-Martín%20Achondo%20Mercado-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mart%C3%ADn-achondo-mercado-49aa00247/?originalSubdomain=cl)](https://www.linkedin.com/in/mart%C3%ADn-achondo-mercado-49aa00247/?originalSubdomain=cl)
+[![Github Badge](https://img.shields.io/badge/-MartinAchondo-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MartinAchondo/)](https://www.github.com/MartinAchondo/)
 
-[![Gmail Badge](https://img.shields.io/badge/-martin.achondom@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:martin.achondom@gmail.com)](mailto:martin.achondom@gmail.com) [![Github Badge](https://img.shields.io/badge/-MartinAchondo-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MartinAchondo/)](https://www.github.com/MartinAchondo/) 
+## About Me
 
-MSc. Ing. Civil Mecánico.
+I'm an MSc Mechanical Engineer based in Chile.
 
-<ul>
-  <li> Computación Científica: 
-    <ul>
-      <li> Python, Fortran, Matlab.
-      <li> Excel, Pandas, Tensorflow.
-      <li> OpenFoam, Fluent, Ansys, DWSIM.
-    </ul>
-<li> Desarrollo de Aplicaciones: 
-    <ul>
-      <li> Python, Javascript, VBA.
-      <li> React Js, Electron Js, Flask.
-      <li> SQL databases.
-    </ul> 
-</ul>
+- 🔭 &nbsp; I'm currently working on my Master's degree investigation: XPINN for PBE.
+- 💡&nbsp; Additionally, I serve as a Project Engineer at Oxiquim S.A. in 
+- 🌱 &nbsp; My interests lie in scientific computing, mechanical-chemical design, data science, machine learning, and app development.
 
-<!-- <p align='left'> Más información en mi curriculum <a href='https://github.com/MartinAchondo/MartinAchondo/blob/main/CV.pdf' target=_blank><u>aquí</u>.</a></p> -->
+## Skills
+
+- **Scientific Computing:** Python, Matlab, Fortran, C++
+- **Data Science:** VBA, SQL, Excel, Pandas, Tensorflow
+- **Modeling:** OpenFOAM, Ansys, Fluent, DWSIM
+- **Web Technologies:** Javascript, React, Bootstrap, Flask
+- **App Development:** Electron
 
 ## Github Stats
 
@@ -31,6 +29,3 @@ MSc. Ing. Civil Mecánico.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinAchondo&layout=compact&theme=tokyonight&langs_count=5)
 ](https://github.com/MartinAchondo/github-readme-stats)
-
-
- 

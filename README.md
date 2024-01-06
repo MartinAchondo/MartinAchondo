@@ -17,10 +17,10 @@ I'm an MSc Mechanical Engineer based in Chile.
 ## Skills
 
 - **Scientific Computing:** Python, Matlab, Fortran, C++
-- **Data Science:** VBA, SQL, Excel, Pandas, Tensorflow
+- **Data Science:** Pandas, SQL, VBA, Excel, Tensorflow
 - **Modeling:** OpenFOAM, Ansys, Fluent, DWSIM
-- **Web Technologies:** Javascript, React, Bootstrap, Flask
-- **App Development:** Electron
+- **Web Technologies:** React, Bootstrap, Flask
+- **App Development:** Eel, Electron Js, Node Js
 
 ## Github Stats
 

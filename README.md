@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm an MSc Mechanical Engineer based in Chile.
+I'm a MSc Mechanical Engineer based in Chile.
 
 - 🔭 &nbsp; I'm currently working on my Master's degree investigation: XPINN for PBE.
 - 💡 &nbsp; Additionally, I serve as a Project Engineer at Oxiquim S.A.

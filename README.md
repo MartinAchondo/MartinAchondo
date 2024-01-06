@@ -18,7 +18,7 @@ I'm an MSc Mechanical Engineer based in Chile.
 
 - **Scientific Computing:** Python, Matlab, Fortran, C++
 - **Data Science:** Pandas, SQL, VBA, Excel, Tensorflow
-- **Modeling:** OpenFOAM, Ansys, Fluent, DWSIM
+- **Modeling:** OpenFOAM, Ansys, Fluent, DWSIM, AFT
 - **Web Technologies:** React, Bootstrap, Flask
 - **App Development:** Eel, Electron Js, Node Js
 

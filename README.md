@@ -11,7 +11,7 @@
 I'm an MSc Mechanical Engineer based in Chile.
 
 - 🔭 &nbsp; I'm currently working on my Master's degree investigation: XPINN for PBE.
-- 💡&nbsp; Additionally, I serve as a Project Engineer at Oxiquim S.A.
+- 💡 &nbsp; Additionally, I serve as a Project Engineer at Oxiquim S.A.
 - 🌱 &nbsp; My interests lie in scientific computing, mechanical-chemical design, data science, machine learning, and app development.
 - 📄 &nbsp; More details about my background and experience in my [CV](https://github.com/MartinAchondo/MartinAchondo/blob/main/CV.pdf).
 
